@@ -10,7 +10,7 @@
 
 The **rmarkdown** package helps you create dynamic analysis documents that combine code, rendered output (such as figures), and prose. You bring your data, code, and ideas, and R Markdown renders your content into a polished document that can be used to:
 
-- Do data science interactively within the RStudio IDE,
+- Do data science **interactively** within the RStudio IDE,
 
 - Reproduce your analyses,
 
